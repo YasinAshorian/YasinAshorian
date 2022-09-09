@@ -1,10 +1,6 @@
 <h4>hi, i'm Yasin Ashourian, a passionate self-taught full stack web developer and a freelance software engineer from iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h4>
-
-<div align="center">
-<img src="" align="center" height="" width="" />
-</div>    
-
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
