@@ -52,7 +52,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ## Connect with me  
 <div align="center">
-<a href="https://twitter.com/https://twitter.com/YAshourian" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/https://www.instagram.com/yasinashourian/" target="_blank">
